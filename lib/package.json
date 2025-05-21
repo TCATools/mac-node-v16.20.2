@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cspell": "^6.31.1",
     "eslint": "^8.23.0",
     "npm": "^9.8.1",
     "pnpm": "^8.14.3",
