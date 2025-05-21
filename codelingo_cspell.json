@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "allowCompoundWords": true,
+  "language": "en",
+  "words": [
+    "tdesign"
+  ],
+  "overrides": [
+      {
+          "languageId": "*",
+          "filename": "*.txt",
+          "dictionaries": ["cpp","node","typescript","go","python","html","powershell","php","css","csharp","bash","latex","misc","en_US","companies","softwareTerms","fonts","filetypes","npm"]
+      }
+  ]
+}
